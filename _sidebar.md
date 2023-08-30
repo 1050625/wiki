@@ -1,2 +1,2 @@
--蝶
-	- [测试](测试)
+- 蝶
+	- [测试](butterflies/test.md)
